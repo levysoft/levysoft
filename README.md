@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Python, OpenSource
-- ⚡ Fun fact: I love coding
+- ⚡ Fun fact: I love coding small projects to automate my life
 - ✍ Read my articles @ [Levysoft](https://www.levysoft.it)
 - 📝[Resume](https://github.com/levysoft#)
 <!--
